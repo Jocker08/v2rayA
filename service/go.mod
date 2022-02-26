@@ -29,14 +29,14 @@ require (
 	github.com/stevenroose/gonfig v0.1.5
 	github.com/tidwall/gjson v1.7.5
 	github.com/ugorji/go v1.2.5 // indirect
-	github.com/v2fly/v2ray-core/v4 v4.41.0
+	github.com/v2fly/v2ray-core/v4 v4.44.0
 	github.com/v2rayA/routingA v0.0.0-20201204065601-aef348ea7aa1
 	github.com/v2rayA/shadowsocksR v1.0.3
 	github.com/xujiajun/nutsdb v0.5.0
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
-	golang.org/x/sys v0.0.0-20210611083646-a4fc73990273
+	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f
+	golang.org/x/sys v0.0.0-20210903071746-97244b99971b
 	google.golang.org/genproto v0.0.0-20210429181445-86c259c2b4ab // indirect
-	google.golang.org/grpc v1.38.0
+	google.golang.org/grpc v1.41.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
