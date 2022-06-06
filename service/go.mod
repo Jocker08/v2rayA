@@ -27,7 +27,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/shadowsocks/go-shadowsocks2 v0.1.5-0.20210421162817-acdbac05f5a5
 	github.com/stevenroose/gonfig v0.1.5
-	github.com/tidwall/gjson v1.7.5
+	github.com/tidwall/gjson v1.9.3
 	github.com/ugorji/go v1.2.5 // indirect
 	github.com/v2fly/v2ray-core/v4 v4.41.0
 	github.com/v2rayA/routingA v0.0.0-20201204065601-aef348ea7aa1
